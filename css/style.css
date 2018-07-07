@@ -1,6 +1,7 @@
 body {
    font-family: 'Trebuchet MS', sans-serif;
    padding: 30px 100px;
+   background-color: #ccc;
 }
 
 h1, p:not(:first-of-type) {
