@@ -20,3 +20,14 @@ ul {
    color:yellowgreen;
 }
 
+h4 {
+   text-align: center;
+   background-color: #cccccc;
+   max-width: 300px;
+   margin-left: auto;
+   margin-right: auto;
+   padding: 6px;
+   border: solid #777;
+   border-width: 8px 0 8px 0;
+}
+
