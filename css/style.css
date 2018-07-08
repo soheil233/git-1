@@ -3,6 +3,7 @@ body {
    padding: 30px 100px;
    background-color: #f7f7f7;
    color: cornflowerblue;
+   transition: all .33s;
 }
 
 h1, p:not(:first-of-type) {

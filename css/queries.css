@@ -1,5 +1,7 @@
 @media (max-width: 800px) {
    h1 {
-      font-size: 3rem !important;
+      font-size: 3rem;
+      color: chartreuse;
    }
+
 }
